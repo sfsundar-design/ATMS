@@ -1,1 +1,10 @@
 
+{
+  "name": "ATMS",
+  "short_name": "ATMS",
+  "display": "standalone",
+  "theme_color": "#2563eb",
+  "background_color": "#ffffff",
+  "start_url": "/",
+  "icons": []
+}
